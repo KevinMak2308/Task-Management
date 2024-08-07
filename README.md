@@ -3,7 +3,7 @@
 ## Opsætning
 
 Clone repository:
-
+```bash
 git clone https://github.com/yourusername/Task-Management.git
 cd Task-Management
 
