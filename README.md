@@ -37,4 +37,4 @@ npm start
 Burde åbne dit brower vindue automatisk, ellers kører frontenden på `http://localhost:3000`.
 
 ## Environment Files
-**OBS** Jeg har bevidst valgt ikke at smide .env i .gitignore for at gøre det lettere, men under et 'rigtigt' udviklings miljø vil jeg selvfølgelig holde det intern til backend teamet. De sikre at folk udefra ikke vil kunne bruge vores endpoints og øge trafik på vores server.
+**OBS** Jeg har bevidst valgt ikke at smide .env i .gitignore for at gøre det lettere, men under et 'rigtigt' udviklings miljø vil jeg selvfølgelig holde det intern til backend teamet. Det vil sikre at folk udefra ikke vil kunne bruge vores endpoints.
