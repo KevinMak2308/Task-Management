@@ -12,7 +12,7 @@ cd Task-Management
 Navigere til server mappen:
 cd server
 
-Installere nodemodules
+Installere nodemodules:
 npm i
 
 Start server:
